@@ -255,7 +255,7 @@ src="https://www.facebook.com/tr?id=5174205719301337&ev=PageView&noscript=1"
 						</ul>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-2c16f8d1 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="2c16f8d1" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https://zoikom.com.br/wp-content/uploads/2022/08/TrituraMAX-300W.mp4&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<video class="elementor-video" src="https://zoikom.com.br/wp-content/uploads/2022/08/TrituraMAX-300W.mp4" controls="" controlslist="nodownload"></video>
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.6.5 - 27-04-2022 */
 .elementor-widget-video .elementor-widget-container{overflow:hidden;-webkit-transform:translateZ(0);transform:translateZ(0)}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}</style>		<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
@@ -1283,7 +1283,7 @@ Fale conosco através dos nossos canais de atendimento:</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-357955e6 elementor-widget elementor-widget-heading" data-id="357955e6" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Woosi Store - Todos os direitos reservados.</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Zoikom - Todos os direitos reservados.</h2>		</div>
 				</div>
 					</div>
 		</div>
